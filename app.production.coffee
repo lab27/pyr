@@ -14,3 +14,7 @@ module.exports =
 
   stylus:
     use: [axis(), rupture(), autoprefixer()]
+  
+  locals:
+    title: "Plan Your Recovery"
+    tagline: "A place for answers about addiction & recovery."
