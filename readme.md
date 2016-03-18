@@ -2,6 +2,8 @@
 
 A place for answers about addiction & recovery.
 
+### This is a roots static-site-generator.
+
 ### Setup
 
 - make sure [node.js](http://nodejs.org) and [roots](http://roots.cx) are installed
